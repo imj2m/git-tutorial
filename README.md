@@ -5,3 +5,4 @@ changed
 
 -feature-A
 -feature-B
+-features-C
